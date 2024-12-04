@@ -54,4 +54,5 @@ Incorporating customer feedback data for sentiment analysis.
 
 I am a data analyst with experience in Excel, SQL, Power BI, and Python, passionate about transforming data into actionable insights.
 
-Feel free to connect with me on [LinkedIn].
+Feel free to connect with me on  [LinkedIn](https://www.linkedin.com/in/shaik-rajak-0b9854167/)  
+- [Email](mailto:shaikrajak8800@gmail.com)  
