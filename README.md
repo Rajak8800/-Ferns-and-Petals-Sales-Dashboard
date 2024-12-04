@@ -1,5 +1,11 @@
 ## Ferns and Petals Sales Analysis Dashboard
-This project is an interactive sales dashboard built in Excel for analyzing the performance of Ferns and Petals, a retail and e-commerce platform. It showcases key business metrics, trends, and actionable insights to support data-driven decision-making.
+This project is an interactive sales dashboard built in Excel for analyzing the performance of Ferns and Petals, a retail and e-commerce platform. It showcases key business 
+ metrics, trends, and actionable insights to support data-driven decision-making.
+
+[Screenshot 2024-12-03 215331](https://github.com/user-attachments/assets/a49ec7d7-6d69-46fb-b108-3d39405ead38)
+
+
+
 
  ## Overview
  ### The dashboard provides:
